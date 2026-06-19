@@ -1,36 +1,19 @@
 cff-version: 1.2.0
-
-message: "If you use this software in academic work, please cite it using the metadata below."
-
-title: "Google Maps Comment Collector"
-
-abstract: >
-Software for automated collection of reviews and comments
-from Google Maps using Selenium WebDriver, supporting
-academic research, data collection and review analysis.
-
-type: software
+message: "If you use this software in academic work, please cite it as described below."
 
 authors:
 
-- family-names: Costa
-  given-names: Henrique da Silva
-  affiliation: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)
-  email: henrique.costa3@aluno.ifsp.edu.br
+- family-names: "Costa"
+  given-names: "Henrique da Silva"
+  affiliation: "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)"
+  email: "henrique.costa3@aluno.ifsp.edu.br"
 
-repository-code: "https://github.com/Henrique-Sc/Google-Maps-Comment-Collector"
-
-keywords:
-
-- Google Maps
-- Selenium
-- Web Scraping
-- Data Collection
-- Review Analysis
-- Research Software
-
-license: ANCL
+title: "Google Maps Comment Collector"
 
 version: 1.0.0
 
 date-released: 2026-06-19
+
+url: "https://github.com/Henrique-Sc/Google-Maps-Comment-Collector"
+
+license: "ANCL"
